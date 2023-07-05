@@ -32,7 +32,7 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/antiabuse" // 违禁词
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chat" // 基础词库
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chat"  基础词库
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/sleep_manage" // 统计睡眠时间
 
@@ -174,7 +174,7 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/curse" // 骂人
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" // 人工智能回复
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply"  人工智能回复
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
 
