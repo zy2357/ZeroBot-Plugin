@@ -125,7 +125,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/qzone"            // qq空间表白墙
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/realcugan"        // realcugan清晰术
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/reborn"           // 投胎
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/runcode"           在线运行代码
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/runcode"          // 在线运行代码
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao"         // 以图搜图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/scale"            // 叔叔的AI二次元图片放大
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/score"            // 分数
@@ -133,7 +133,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shadiao"          // 沙雕app
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shindan"          // 测定
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/steam"            // steam相关
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tarot"             抽塔罗牌
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tarot"            // 抽塔罗牌
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tiangou"          // 舔狗日记
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/tracemoe"         // 搜番
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/translation"      // 翻译
